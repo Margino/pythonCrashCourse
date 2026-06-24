@@ -7,3 +7,4 @@ x,y,z = 0,0,0
 MAX_NUMBER = 500
 print(f"x={x}, y={y}, z={z}")
 print(f"Max number = {MAX_NUMBER}")
+print(8_000_000)
