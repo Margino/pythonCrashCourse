@@ -8,7 +8,6 @@ def sent_invites(guests):
 
 
 def change_guest(guests, old_guest, new_guest):
-
     if old_guest not in guests:
         print()
         print("Замена не произведена. Нет гостя которого надо удалить!")
